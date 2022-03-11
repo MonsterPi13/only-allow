@@ -1,4 +1,8 @@
-# only-allow
+# warning: 
+Copied from `only-allow` package, it only used in study
+---
+
+# enn-only-allow
 
 > Force a specific package manager to be used on a project
 

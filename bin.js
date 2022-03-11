@@ -34,12 +34,12 @@ For more details, go to https://pnpm.js.org/`, boxenOpts))
 If you don't have Yarn, install it via "npm i -g yarn".
 For more details, go to https://yarnpkg.com/`, boxenOpts))
       break
-    case 'enpm'
+    case 'enpm':
       console.log(boxen(`Use "enpm" for installation in this project.
 
 If you don't have Yarn, install it via "npm install -g enpm --registry=https://registry-npm.ennew.com/".
 For more details, go to https://yarnpkg.com/`, boxenOpts))
-        break
+      break
   }
   process.exit(1)
 }

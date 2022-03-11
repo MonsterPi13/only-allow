@@ -1,5 +1,5 @@
 {
-  "name": "@enn/only-allow",
+  "name": "enn-only-allow",
   "version": "1.1.0",
   "description": "Force a specific package manager to be used on a project",
   "main": "bin.js",
@@ -14,16 +14,16 @@
     "npm",
     "yarn"
   ],
-  "author": "Zoltan Kochan <z@kochan.io>",
+  "author": "k1ller13",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pnpm/only-allow.git"
+    "url": "git@github.com:k1ller13/only-allow.git"
   },
   "bugs": {
-    "url": "https://github.com/pnpm/only-allow/issues"
+    "url": "https://github.com:k1ller13/only-allow/issues"
   },
-  "homepage": "https://github.com/pnpm/only-allow#readme",
+  "homepage": "https:/github.com:k1ller13/only-allow#readme",
   "dependencies": {
     "boxen": "^4.2.0",
     "which-pm-runs": "^1.1.0"
